@@ -1,4 +1,4 @@
----------- Biblioteca API -------------
+---------- Biblioteca API -----------------------
 
 API REST para gerenciamento de uma biblioteca, desenvolvida com Node.js, Express, Sequelize e SQLite.
 
