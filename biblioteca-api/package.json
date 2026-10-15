@@ -1,0 +1,22 @@
+
+{
+  "name": "biblioteca-api",
+  "version": "1.0.0",
+  "description": "API REST para gerenciamento de uma biblioteca",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Testes automatizados não configurados\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1",
+    "sequelize": "^6.37.8",
+    "sqlite3": "^6.0.1"
+  }
+}
+
+
